@@ -1,5 +1,5 @@
 # Projeto-Sistema-Cadastro-de-Filmes
-Projeto feito em dupla por Matheus dos Santos Tenório e Matheus Vasconcelos
+Projeto feito em dupla por Matheus dos Santos Tenório e Matheus Vasconcelos Soares da Silva
 
 - Projeto de um sistema pensado no cadastro de informações básicas sobre filmes (seu título, gênero e uma breve avaliação pessoal) e que possa ser posteriormente visualizado a lista desses filmes cadastrados, tudo isso através de uma interface interativa com um menu de opções.
 - Foram nele utilizados conceitos básicos de C++ como strings, vetores, laços de repetição, estruturas, objetos e listas.
